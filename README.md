@@ -31,4 +31,8 @@ BITLY_KEY=40446a048508d97e2476eacdf6284c872516f296
 
 ### Цель проекта
 
+
+https://github.com/user-attachments/assets/1f5f54f9-c569-478b-9498-233cf532289d
+
+
 Код написан в образовательных целях на онлайн-курсе для веб-разработчиков [dvmn.org](https://dvmn.org/).
